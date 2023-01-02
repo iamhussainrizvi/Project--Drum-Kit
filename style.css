@@ -1,0 +1,150 @@
+body{
+    background-image: url(https://images.pexels.com/photos/7135121/pexels-photo-7135121.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    
+}
+
+header{
+    
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header h1{
+    color: #FF00FF;
+    /* box-shadow: 0px -1px 0px black; */
+    text-shadow:  -2px -2px blue;
+}
+
+.title{
+    text-align: center;
+    font-size: 3.5rem;
+}
+.kit-image{
+    max-width: 1080px;
+    min-width:400px;
+    min-height: 720px;
+    margin: auto auto;
+    background-image: url(images/OQ3OWG0.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.text{
+    min-height:720px ;
+    /* margin: auto; */
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(3,1fr);
+    
+}
+
+.clickable{
+    /* background-color: aqua; */
+    padding: 10px;
+    /* border: 1px solid black; */
+    text-align: center;
+}
+
+.clickable span{
+    background-color:black;
+    padding: 3px 5px;
+    border-radius: 55px;
+    color: white;
+    font-size: 3rem;
+    font-weight: 500;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+
+}
+
+
+
+
+#top-row{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#middle-row{
+     display: grid;
+    grid-template-columns:  160px 150px 170px 170px 150px 150px ;
+    height: 200px; 
+    
+}
+
+#bottom-row{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.d-none{
+    visibility: hidden;
+}
+
+
+
+#m-r-c4 span{
+    position: relative;
+    /* right: 70px; */
+    top:100px;
+    
+}
+
+.clickable .w{
+    position: relative;
+    top: 30px;
+}
+
+.clickable .five{
+    position: relative;
+    /* top: 30px; */
+    right: 50px;
+}
+
+.clickable .a{
+    position: relative;
+    top: 100px;
+    left:50px; 
+}
+
+.clickable .d{
+    position: relative;
+    top: 50px;
+    right: 90px;
+}
+
+.para{
+    color: rgb(246,135,255);
+    font-size: 1.5rem;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
