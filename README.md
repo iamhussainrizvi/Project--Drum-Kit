@@ -21,4 +21,4 @@
 -application of linear gradients.
 - text-shadow property
 
-### Hosted [Link]() of the Drum kit online
+### Hosted [Link](https://monumental-semolina-f4223a.netlify.app/) of the Drum kit online
