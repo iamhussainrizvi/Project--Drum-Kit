@@ -22,3 +22,4 @@
 - text-shadow property
 
 ### Hosted [Link](https://monumental-semolina-f4223a.netlify.app/) of the Drum kit online
+![drumkit-js-project](https://user-images.githubusercontent.com/99624725/230486313-1a001e13-027c-4098-9b3c-45da4f587edd.png)
